@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0xe68f2d689c1b728d93d0345500b67204e4bdf61a",
-  "SCAN_LINK": "https://polygonscan.com/address/0xe68f2d689c1b728d93d0345500b67204e4bdf61a",
+  "CONTRACT_ADDRESS": "0x1619a9314b40b24f491899ba5af25544e57175eb",
+  "SCAN_LINK": "https://polygonscan.com/address/0x1619a9314b40b24f491899ba5af25544e57175eb",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
     "ID": 137
   },
-  "NFT_NAME": "Pixel Astronauts",
-  "SYMBOL": "PIXELASTRONAUTS",
+  "NFT_NAME": "Pixel Ape Social Club",
+  "SYMBOL": "PixelApeSC",
   "MAX_SUPPLY": 2500,
   "WEI_COST": 1000000000000000000,
   "DISPLAY_COST": 1,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/pixelatedastronauts",
+  "MARKETPLACE_LINK": "https://twitter.com/pixelapesocialc",
   "SHOW_BACKGROUND": true
 }
