@@ -7,12 +7,12 @@
     "ID": 137
   },
   "NFT_NAME": "Pixel Ape Social Club",
-  "SYMBOL": "PixelApeSC",
+  "SYMBOL": "PIXELAPESC",
   "MAX_SUPPLY": 2500,
-  "WEI_COST": 1000000000000000000,
-  "DISPLAY_COST": 1,
+  "WEI_COST": 5000000000000000000,
+  "DISPLAY_COST": 5,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://twitter.com/pixelapesocialc",
+  "MARKETPLACE_LINK": "https://linktr.ee/pixelapesc",
   "SHOW_BACKGROUND": true
 }
