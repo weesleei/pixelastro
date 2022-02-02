@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0x8aacbbd1d57e69c09d5b31d32c31cce355092f40",
-  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x8aacbbd1d57e69c09d5b31d32c31cce355092f40",
+  "CONTRACT_ADDRESS": "0x1619A9314B40b24F491899bA5aF25544E57175Eb",
+  "SCAN_LINK": "https://polygonscan.com/address/0x1619a9314b40b24f491899ba5af25544e57175eb",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
-    "ID": 80001
+    "ID": 137
   },
   "NFT_NAME": "Pixel Ape Social Club",
-  "SYMBOL": "PIXEL APE",
+  "SYMBOL": "PIXEL APE NFT",
   "MAX_SUPPLY": 50,
-  "WEI_COST": 500000000000000000,
+  "WEI_COST": 5000000000000000000,
   "DISPLAY_COST": 5,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://linktr.ee/pixelapesc",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/pixelapesocialclub",
   "SHOW_BACKGROUND": true
 }
